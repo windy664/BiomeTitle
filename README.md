@@ -1,4 +1,14 @@
+<div align="center">
+
+<img src="assets/banner.svg" alt="BiomeTitle" width="100%">
+
+</div>
+
 # BiomeTitle
+
+![Platform](https://img.shields.io/badge/Platform-Velocity-1e5c97?style=flat-square&logo=velocity&logoColor=white)
+![Java](https://img.shields.io/badge/Java-21-f89820?style=flat-square&logo=openjdk&logoColor=white)
+![packetevents](https://img.shields.io/badge/packetevents-2.x-e2b90f?style=flat-square)
 
 Velocity 代理端插件，玩家跨群系边界时显示 Title 提示。
 
